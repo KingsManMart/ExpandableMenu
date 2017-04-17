@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gspl/Desktop/Mahi Code/ExpandableMenu-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f04dde80209e2bc17faba586be4cf59c30141ccc">
+        <dex dex="/home/gspl/Desktop/Mahi Code/ExpandableMenu-master/demo/build/intermediates/pre-dexed/debug/classes_b30dd9f678f10b9f7747a60d1812a1eadf1ac4e0.jar" />
+    </item>
+
+</items>
